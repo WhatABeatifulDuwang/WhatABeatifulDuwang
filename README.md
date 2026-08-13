@@ -18,10 +18,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - **Tools:** VSCode, Visual Studio, PHPStorm, Eclipse, PyCharm, Unity
 - **Databases:** MySQL, MSSQL
 
-## 📈 GitHub Stats
-
-![Quinten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhatABeatifulDuwang&show_icons=true&theme=radical)
-
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
